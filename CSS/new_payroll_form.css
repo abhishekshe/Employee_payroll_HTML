@@ -130,17 +130,9 @@ select{
     margin-right:30px;
 }
 .cancelButton{
-text-decoration:none;
-text-align:center;
-}
-
-error-output
-{
-    font-size:12px;
-    font-style:italic;
-    color:red;
-    margin: 5px;
-}
+    text-decoration:none;
+    text-align:center;
+    }
 
 
   
